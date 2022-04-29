@@ -35,4 +35,8 @@ body {
   position: absolute;
   top: -24px;
   left: 0;
+  text-align: center;
+  width: 100%;
+  color: #555;
+  font-size: 14px;
 }
